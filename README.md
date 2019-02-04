@@ -6,7 +6,7 @@ Comparison of 3 Regression Models for Prediction of Google Stocks Price
 - Any new future feature...
   - Comparison of Prediction Accuracy
   - ANOVA for comparison of the regression models?
--...work in progress!
+- ...work in progress!
 
 
 
